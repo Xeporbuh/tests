@@ -1,1 +1,1 @@
-yas Queen
+local keyA = "uRWsMxUgHpWaf3qpop7WmzJsruikfOAVPeTZ8ishvJkN0RcBwJyYZTj"return keyA
